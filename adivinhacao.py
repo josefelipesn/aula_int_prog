@@ -10,3 +10,5 @@ elif tipo_animal.lower() == "réptil":
 
 else:
     print("Não consegui adivinhar seu animal favorito.")
+
+#OK
